@@ -24,7 +24,7 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
    Bu <- MASS::mvrnorm(n = 10000, mu = rep(0, nrow(Vc)), Sigma = Vc)
    ```
 
-- For derivatives:
+For derivatives:
 
 This is motivated by: 
 $$\hat{f} (x) = \sum_{k=1}^{M} \hat{\beta}_k g_k(x)\rightarrow \hat{f’}(x) = \sum_{k=1}^{M} \hat{\beta}_k g’_k(x)$$
