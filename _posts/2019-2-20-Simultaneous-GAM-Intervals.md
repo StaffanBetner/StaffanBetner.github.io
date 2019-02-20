@@ -36,7 +36,7 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
       Xp2 <- model.matrix(gam_object, newdata = dense_evaluation_grid + eps)
       ```
 
-      3.2. Calculate approximation of first derivative by $ \frac{X^{(2)}_{p} - X_{p}}{\epsilon} $, and use as $X_p$ in consecutive steps. 
+      3.2. Calculate approximation of first derivative by $\frac{X^{(2)}_{p} - X_{p}}{\epsilon}$, and use as $X_p$ in consecutive steps. 
       
       ```{r}
       Xp <- (Xp2 - Xp) / eps
@@ -44,7 +44,7 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
 
 And then for each smooth of interest:
 
-4. Set irrelevant columns in $X_p$ to 0, e.g. the intercept and other terms. If you want simultaneousness over several terms at the same time, you should put the uninteresting ones to 0. In some cases you want to include the intercept, which is typically a good idea if the estimated smooth is linear, or close to linear, or if you want the simultaneous confidence interval for $E[Y|X]$.
+4. Set irrelevant columns in $X_p$ to 0, e.g. the intercept and other terms. If you want simultaneousness over several terms at the same time, you should put the uninteresting ones to 0. In some cases you want to include the intercept, which is typically a good idea if the estimated smooth is linear, or close to linear, or if you want the simultaneous confidence interval for $E{[}Y|X{]}$.
 
    ```{r}
    # Example with just one smooth, where we set the intercept in the model matrix to 0
@@ -58,10 +58,10 @@ And then for each smooth of interest:
    Se <- sqrt(rowSums(Xp %*% (Vc*Xp)))
    ```
 
-6. Calculate $abs(\frac{X_pB_u'}{S_x})$ (dimensions: rows($X_i$) times number of simulations).
+6. Calculate $abs(\frac{X_pB_u'}{S_e})$ (dimensions: rows($X_i$) times number of simulations).
 
    ```{r}
-   absVal <- abs((Xp %*% t(Bu)) / Sx)
+   absVal <- abs((Xp %*% t(Bu)) / Se)
    ```
 
 7. For each simulation (i.e. column) find maximum of those absolute values.
