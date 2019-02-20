@@ -25,7 +25,7 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
    Bu <- MASS::mvrnorm(n = 10000, mu = rep(0, nrow(Vc)), Sigma = Vc)
    ```
 ---
-For derivatives:
+***For derivatives***
     
 This is motivated by
     
