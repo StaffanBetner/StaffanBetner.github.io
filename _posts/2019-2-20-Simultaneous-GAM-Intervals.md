@@ -24,28 +24,28 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
    ```
    Bu <- MASS::mvrnorm(n = 10000, mu = rep(0, nrow(Vc)), Sigma = Vc)
    ```
-
-    For derivatives:
+---
+For derivatives:
     
-    This is motivated by: 
+This is motivated by
     
-    <div>$\hat{f}(x) = \sum_{k=1}^{M} \hat{\beta}_k g_k(x) \rightarrow \hat {f’} (x) = \sum_{k=1}^{M} \hat {\beta}_k {g’}_k(x)$</div>
+<div>$\hat{f}(x) = \sum_{k=1}^{M} \hat{\beta}_k g_k(x) \rightarrow \hat {f’} (x) = \sum_{k=1}^{M} \hat {\beta}_k {g’}_k(x)$</div>
     
-    1. Extract $X_p$ for $X_i + \epsilon$, where $\epsilon$ is close to zero (e.g. 0.00001). ($X^{(2)}_p$) Be sure to avoid to add $\epsilon$ to factor variables though. 
+1. Extract $X_p$ for $X_i + \epsilon$, where $\epsilon$ is close to zero (e.g. 0.00001). ($X^{(2)}_p$) Be sure to avoid to add $\epsilon$ to factor variables though. 
     
-    ```
-    eps <- 0.00001
-    Xp2 <- model.matrix(gam_object, newdata = dense_evaluation_grid + eps)
-    ```
+```
+eps <- 0.00001
+Xp2 <- model.matrix(gam_object, newdata = dense_evaluation_grid + eps)
+```
     
-    2. Calculate approximation of first derivative by 
-          $\frac{X^{(2)}_p - X_p}{\epsilon}$
-          and use as $X_p$ in consecutive steps. 
+2. Calculate approximation of first derivative by 
+$\frac{X^{(2)}_p - X_p}{\epsilon}$
+and use as $X_p$ in consecutive steps. 
       
-    ```
-    Xp <- (Xp2 - Xp) / eps
-    ```
-
+```
+Xp <- (Xp2 - Xp) / eps
+```
+---
 And then for each smooth of interest:
 
 4. Set irrelevant columns in $X_p$ to 0, e.g. the intercept and other terms. If you want simultaneousness over several terms at the same time, you should put the uninteresting ones to 0. In some cases you want to include the intercept, which is typically a good idea if the estimated smooth is linear, or close to linear, or if you want the simultaneous confidence interval for $E[{Y}|{X}]$.
