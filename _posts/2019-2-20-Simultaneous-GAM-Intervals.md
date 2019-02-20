@@ -27,7 +27,7 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
 
 For derivatives:
 
-This is motivated by: $\hat{f}(x)=\sum_{k=1}^{M}\hat{\beta}_kg_k(x)\rightarrow \hat{f'}(x) = \sum_{k=1}^{M}\hat{\beta}_kg'(x)$
+This is motivated by: $\hat{f} (x) = \sum_{k=1}^{M} \hat{\beta}_k g_k(x)\rightarrow \hat{f'}(x) = \sum_{k=1}^{M} \hat{\beta}_k g'(x)$
 
 3.1. Extract $X_p$ for $X_i + \epsilon$, where $\epsilon$ is close to zero (e.g. 0.00001). ($X^{(2)}_p$) Be sure to avoid to add $\epsilon$ to factor variables though. 
 
@@ -82,11 +82,20 @@ And then for each smooth of interest:
    est <- (Xp %*% coef(gam_model))
    lower <- est - crit * Se
    upper <- est + crit * Se
-   confidence_intervals <- data.frame(x = dense_evaluation_grid$x, est = est, lower = lower, upper = upper)
+   confidence_intervals <- data.frame(x = dense_evaluation_grid$x, 
+                                      est = est, 
+                                      lower = lower, 
+                                      upper = upper)
    ```
 
 10. Finally, you could plot it with ggplot2.
 
     ```{r}
-    ggplot(data = confidence_intervals, aes(x = x, y = est, ymin = lower, ymax = upper)) + geom_line() + geom_ribbon(alpha = 0.3)
+    ggplot(data = confidence_intervals, 
+           aes(x = x, 
+           y = est, 
+           ymin = lower, 
+           ymax = upper)) + 
+          geom_line() + 
+          geom_ribbon(alpha = 0.3)
     ```
