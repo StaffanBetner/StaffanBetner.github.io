@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 published: true
 ---
+I'm a statistician living in Uppsala, Sweden. When I'm not spending time in R, doing all kinds of statisticial analyses (both for work and for leisure), I'm a hobby genealogist and choir singer.
+
 ### Education
 - Degree of Bachelor of Social Science in Statistics. Uppsala University (2016)
 	- Minor subjects: Economics and Political Science
@@ -18,7 +20,7 @@ published: true
 
 - Political Charts, SVT (2018)
 
-I was hired by the Swedish Public Service television company (SVT) before the general election 2018 to do an analysis of their survey for their political quizzes. The assignment was in essence to describe the political landscape in a quantitative manner. All parties (and candidates to the Riksdag) was placed in common political spaces, depending on the administrative level. You could view the the political charts for all administrative units at [valkompassen.svt.se](http://valkompassen.svt.se) (in Swedish).  
+I was hired by the Swedish Public Service television company (SVT) before the general election 2018 to do an analysis of their survey for their political quizzes. The assignment was in essence to describe the political landscape in a quantitative manner. All parties (and candidates to the Riksdag) was placed in common political spaces, depending on the administrative level. You can see the political charts for all administrative units at [valkompassen.svt.se](http://valkompassen.svt.se) (in Swedish).  
 
 ### Contact me
 
