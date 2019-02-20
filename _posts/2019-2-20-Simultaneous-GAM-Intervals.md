@@ -10,7 +10,6 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
 
     ```{r}
    Vc <- vcov(gam_object, unconditional = TRUE) 
-   # Removing the last argument might make it work for other regression objects as well, I have not tried
    ```
 
 2. Extract the model matrix, $X_p$, from the estimated model with a dense evaluation grid, $X_i$ for the smooth(s) of interest. Other predictors can be set to a constant. 
