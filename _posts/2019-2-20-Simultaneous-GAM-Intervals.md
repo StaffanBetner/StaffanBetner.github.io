@@ -4,7 +4,7 @@ title: Simultaneous confidence intervals for (derivatives of) GAM smooths
 published: true
 ---
 
-You need a *gam* object created with mgcv::gam(method = “REML”) in R. This procedure is the same that is implemented in Gavin Simpson’s package *gratia*, available ~~(as of now) only from GitHub~~ from CRAN.
+You need a *gam* object created with mgcv::gam(method = “REML”) in R. This procedure is the same that is implemented in Gavin Simpson’s package *gratia*, available from CRAN.
 
 1. Extract corrected/unconditional (incorporating the smoothing parameter uncertainty) covariance matrix of the estimated parameters from the model, hereby denoted by $\hat{V}_c$. 
 
@@ -25,7 +25,7 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
    Bu <- MASS::mvrnorm(n = 10000, mu = rep(0, nrow(Vc)), Sigma = Vc)
    ```
 
-For derivatives:
+3.0 For derivatives:
 
 This is motivated by: $\hat{f} (x) = \sum_{k=1}^{M} \hat{\beta}_k g_k(x)\rightarrow \hat{f'}(x) = \sum_{k=1}^{M} \hat{\beta}_k g'(x)$
 
