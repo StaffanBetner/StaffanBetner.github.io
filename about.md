@@ -24,6 +24,4 @@ I was hired by the Swedish Public Service television company (SVT) before the ge
 
 ### Contact me
 
-Email: [staffan@betner.nu](mailto:staffan@betner.nu)
-
-Twitter: [@StaffanBetner](https://twitter.com/staffanbetner)
+Contact details below (the icons).
