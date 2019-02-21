@@ -57,7 +57,9 @@ And then for each smooth of interest:
 4. Set irrelevant columns in $X_p$ to 0, e.g. the intercept and other terms. If you want simultaneousness over several terms at the same time, you should put the uninteresting ones to 0. In some cases you want to include the intercept, which is typically a good idea if the estimated smooth is linear, or close to linear, or if you want the simultaneous confidence interval for $E[{Y}|{X}]$.
 
     ```
-   # Example with just one smooth, where we set the intercept in the model matrix to 0
+   # Example with just one smooth, 
+   # where we set the intercept in the model matrix to 0
+   
    # The intercept is in the first column
    Xp[,1] <- 0
    ```
