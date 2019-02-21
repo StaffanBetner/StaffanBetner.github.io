@@ -2,7 +2,7 @@
 layout: post
 title: Simultaneous confidence intervals for (derivatives of) GAM smooths
 published: true
-date: 2019-02-20
+date: {}
 ---
 
 You need a *gam* object created with mgcv::gam(method = “REML”) in R. This procedure is the same that is implemented in Gavin Simpson’s package *gratia*, available from CRAN.
@@ -10,19 +10,24 @@ You need a *gam* object created with mgcv::gam(method = “REML”) in R. This p
 1. Extract corrected/unconditional (incorporating the smoothing parameter uncertainty) covariance matrix of the estimated parameters from the model, hereby denoted by $\hat{V}_c$. 
 
     ```
-   Vc <- vcov(gam_object, unconditional = TRUE) 
+   Vc <- vcov(gam_object, 
+   			  unconditional = TRUE) 
    ```
 
 2. Extract the model matrix, $X_p$, from the estimated model with a dense evaluation grid, $X_i$ for the smooth(s) of interest. Other predictors can be set to a constant. 
 
     ```
-   Xp <- model.matrix(gam_object, newdata = dense_evaluation_grid)
+   Xp <- model.matrix(gam_object, 
+                      newdata = dense_evaluation_grid)
    ```
 
 3. Simulate many (e.g. 10 000) observations from $N(0,\hat{V}_c)$, denoted by $B_u$.
 
    ```
-   Bu <- MASS::mvrnorm(n = 10000, mu = rep(0, nrow(Vc)), Sigma = Vc)
+   Bu <- MASS::mvrnorm(n = 10000, 
+                       mu = rep(0, 
+                                nrow(Vc)), 
+                       Sigma = Vc)
    ```
 ---
 ***For derivatives***
@@ -35,7 +40,8 @@ This is motivated by
     
 ```
 eps <- 0.00001
-Xp2 <- model.matrix(gam_object, newdata = dense_evaluation_grid + eps)
+Xp2 <- model.matrix(gam_object, 
+                    newdata = dense_evaluation_grid + eps)
 ```
     
 2. Calculate approximation of first derivative by 
@@ -77,7 +83,9 @@ And then for each smooth of interest:
 8. Use $1-\alpha$ quantile (type 8 in R) of the maximums as critical value for the simultaneous confidence intervals for that smooth ($m_{1-\alpha}$).
 
     ```
-   crit <- quantile(maximums, type = 8, prob = 0.95)
+   crit <- quantile(maximums, 
+                    type = 8, 
+                    prob = 0.95)
    ```
 
 9. Predict the value of the estimated smooth, and calculate the simultaneous (with regard to the points in $X_i$) confidence interval for the smooth by $X_p\hat{\beta}\pm m_{1-\alpha}S_e=\hat{f(x)}\pm m_{1-\alpha}S_e$.
