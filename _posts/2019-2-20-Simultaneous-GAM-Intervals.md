@@ -2,7 +2,6 @@
 layout: post
 title: Simultaneous confidence intervals for (derivatives of) GAM smooths
 published: true
-date: {}
 ---
 
 You need a *gam* object created with mgcv::gam(method = “REML”) in R. This procedure is the same that is implemented in Gavin Simpson’s package *gratia*, available from CRAN.
