@@ -63,10 +63,10 @@ And then for each smooth of interest:
    Xp[,1] <- 0
    ```
 
-5. Calculate standard errors for the estimated smooth evaluated in $X_i$ by $diag(X_p\hat{V}_cX_p')^{1/2}$ or equivalently (and more efficient) in R: $rowSums(X_p\hat{V}_c\cdot X_p)^{1/2}$ and denote $S_e$.
+5. Calculate standard errors for the estimated smooth evaluated in $X_i$ by $diag(X_p\hat{V}_cX_p')^{1/2}$ or equivalently (and more efficient) in R: $rowSums(X_p\cdot(\hat{V_c}X_p))^{1/2}$ and denote $S_e$.
 
-    ```
-   Se <- sqrt(rowSums(Xp %*% (Vc*Xp)))
+   ```
+   Se <- sqrt(rowSums(Xp * (Vc%*%Xp)))
    ```
 
 6. Calculate $abs(\frac{X_pB_u'}{S_e})$ (dimensions: rows($X_i$) times number of simulations).
