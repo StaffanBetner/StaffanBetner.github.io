@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-I'm a statistician living in Uppsala, Sweden. When I'm not spending time in R, doing all kinds of statisticial analyses (both for work and for leisure), I'm a hobby genealogist and choir singer.
+I am a statistician living in Uppsala, Sweden. When I'm not spending time in R, doing all kinds of statisticial analyses (both for work and for leisure), I am a hobby genealogist and a choir singer.
 
 ### Education
 - Degree of Bachelor of Social Science in Statistics. Uppsala University (2016)
@@ -18,9 +18,11 @@ I'm a statistician living in Uppsala, Sweden. When I'm not spending time in R, d
 
 ### Freelance
 
-- Political Charts, SVT (2018)
+- Political Charts, SVT (2018 and 2019)
 
-I was hired by the Swedish Public Service television company (SVT) before the general election 2018 to do an analysis of their survey for their political quizzes. The assignment was in essence to describe the political landscape in a quantitative manner. All parties (and candidates to the Riksdag) was placed in common political spaces, depending on the administrative level. You can see the political charts for all administrative units at [valkompassen.svt.se](http://valkompassen.svt.se) (in Swedish).  
+Before the Swedish general election in 2018 I was hired by the Swedish Public Service television company (SVT) to do an analysis of their survey for their political quizzes. The assignment was in essence to describe the political landscapes in a quantitative manner. All parties (and candidates to the Riksdag) was placed in common political spaces, depending on the administrative level. You can see the political charts for all administrative units at [valkompassen.svt.se/2018/](https://valkompassen.svt.se/2018/) and the article on the placements of the candidates for the Riksdag [here](https://www.svt.se/special/hur-lika-ar-kandidaterna-sina-partier/) (both links in Swedish). 
+
+In 2019 SVT hired me to do a similiar analysis of their survey for the political quiz for the European Parliament election. All respondents was placed in an (Swedish) European political space. The article on the analysis can be found at [www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden](https://www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden/) (in Swedish). 
 
 ### Contact me
 
