@@ -12,9 +12,9 @@ I am a statistician living in Uppsala, Sweden. When I'm not spending time in R, 
 - Degree of Master of Social Science (120 credits) in Statistics. Uppsala University (2018)
 	- Master thesis: [Trends in Forest Soil Acidity: A GAM Based Approach with Application on Swedish Forest Soil Inventory Data](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1215453&dswid=3979)
 
-### Work
+### Employments
 
-- Research Assistant in Statistics, Swedish University of Agricultural Sciences (SLU) in Uppsala (2018 - current employment)
+- Research Assistant in Statistics, Swedish University of Agricultural Sciences (SLU) in Uppsala (2018 - 2020)
 
 ### Publications
 Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, 1-11. doi:10.1017/S175173112000107X
