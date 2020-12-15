@@ -18,9 +18,9 @@ I am a statistician living in Uppsala, Sweden. When I'm not spending time in R, 
 - Statistician, Centre for Occupational and Environmental Medicine (CAMM) in Stockholm (Since 2020, current employment)
 
 ### Publications
-Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, 1-11. doi:10.1017/S175173112000107X
+Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, 1-11. [doi:10.1017/S175173112000107X](http://doi.org/10.1017/S175173112000107X)
 
-von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, 104949. doi:10.1016/j.envsoft.2020.104949
+von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, 104949. [doi:10.1016/j.envsoft.2020.104949](http://doi.org/10.1016/j.envsoft.2020.104949)
 
 ### Freelance
 
