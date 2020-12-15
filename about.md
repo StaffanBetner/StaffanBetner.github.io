@@ -15,6 +15,7 @@ I am a statistician living in Uppsala, Sweden. When I'm not spending time in R, 
 ### Employments
 
 - Research Assistant in Statistics, Swedish University of Agricultural Sciences (SLU) in Uppsala (2018 - 2020)
+- Statistician, Centre for Occupational and Environmental Medicine (CAMM) in Stockholm (Since 2020, current employment)
 
 ### Publications
 Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, 1-11. doi:10.1017/S175173112000107X
