@@ -1,23 +1,11 @@
 ---
 published: false
 ---
----
-title: 'Case study: Fitting a penalized one-dimensional spline as random effect in `coxme`'
-author: "Staffan Betnér"
-output:
-  pdf_document: default
-  word_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 A colleague recently asked me how to fit a spline with a point constraint in a Cox proportional hazards (PH) model. After realizing that his response was interval censored I found that `mgcv::cox.ph` couldn't be used, as the right censoring is specified as a 0-weight in the syntax (event as 1). I quickly looked into other ways to estimate a penalized spline from the `mgcv` framework, and since a penalized spline can be rewritten as a random effect I needed to find another package that could estimate mixed Cox PH models, with a `Surv` object describing the response (which allows for interval censoring). One package fulfilling those criteria is `coxme`, which also support a ridge regression shrinkage for variables, which we will see is especially well suited for estimating penalized splines in a random effect setting.
 
 First, we load some package:
 
-```{r}
+```
 pacman::p_load(tidyverse,
                survival, 
                coxme, 
@@ -27,7 +15,7 @@ pacman::p_load(tidyverse,
 
 We will work with the time until death `futime` (or last contact in case of censoring) in the `mgus2` dataset in `survival`, and use `creat` as a non-linear predictor.
 
-```{r}
+```
 survival::mgus2 %>% drop_na(creat) -> work_dataset
 ```
 
@@ -35,7 +23,7 @@ We construct a smooth object, which we will convert into a random effect, such t
 
 This is called the natural parameterization of a spline, and in this case (I think it is due to the identity matrix as a penalty), it is the same as the original parameterization. The only difference is that in this natural parameterization, the $b$s are in a different order, which will be reordered to the original order in the last row in the following code block. The "fixed effect" part is called the null space, and the "random effect" part is called the penalized space.
 
-```{r}
+```
 sm <- smoothCon(
   s(creat, k = 30, pc = 12.5),
   # dimension of basis: 30, point constraint 12.5
@@ -48,24 +36,24 @@ sm <- smoothCon(
 ```
 
 
-```{r}
+```
 smooth2random(sm, "", type = 2) -> re
 ```
 
 
-```{r}
+```
 re$Xf -> null_space
 ```
 
 
-```{r}
+```
 re$rand$Xr %*% re$trans.U[-ncol(re$trans.U), -ncol(re$trans.U)] ->
   penalized_space # Reorder the matrix of the random effect part
 ```
 
 After that we will first fit the model with `mgcv`, and then with `coxme`, and afterwards compare the estimates. The spline will be a 30 dimensional basis rank-reduced think plate spline, with a point constraint at $12.5$, i.e. the spline will evaluate to zero in that point. This is useful so that we have a fixed reference point for the hazard ratio. We also prepare a plot of the estimated spline from `mgcv`.
 
-```{r}
+```
 gam(data = work_dataset,
     formula = futime ~ s(creat, k = 30, pc = 12.5),
     weights = death,
@@ -75,7 +63,7 @@ gam(data = work_dataset,
 ```
 
 
-```{r}
+```
 gam_model %>%
   gratia::draw(fun = exp) %>%
   .$data %>%
@@ -92,7 +80,7 @@ gam_model %>%
 ```
 
 
-```{r}
+```
 coxme(formula = Surv(time = futime, event = death) ~ null_space + (penalized_space | 1), 
       data = work_dataset) -> 
   test_model
@@ -100,29 +88,29 @@ coxme(formula = Surv(time = futime, event = death) ~ null_space + (penalized_spa
 
 To plot the estimated spline from `coxme` we need to extract the estimated coefficients for the spline, and its covariance matrix. We setup a "prediction matrix" that tells us how the bases are evaluated at each value for `creat`, where we take the values from the grid from `gratia::draw`. As the estimated coefficients are in the same order as the bases in the prediction matrix, we matrix multiply them to get the prediction, since $\hat{f}(x)=\sum_{k=1}^{M} \hat{\beta}_{k} g_{k}(x)$, where $g_k$ is each individual basis. We also extract the covariance matrix for the coefficients.
 
-```{r}
+```
 Xp <- PredictMat(sm, plot1$data)
 ```
 
 
-```{r}
+```
 c(test_model$frail$`1`, coef(test_model)["null_space"]) -> beta_hat
 ```
 
 
-```{r}
+```
 Xp%*%as.vector(beta_hat) -> pred_spline
 ```
 
 
-```{r}
+```
 V <- test_model$variance 
 # works if there are no fixed effects as they are in same order as in Xp
 ```
 
 The standard error of a fixed point of an estimated spline is $\operatorname{diag}\left(X_{p} \hat{V} X_{p}^{\prime}\right)^{1 / 2}$ or equivalently (and more efficient) in R: $\operatorname{row} \operatorname{Sums}\left(X_{p} \cdot\left(X_{p} \hat{V}\right)\right)^{1 / 2}$ . This is enough to create a plot for the spline estimated with `coxme`.
 
-```{r}
+```
 plot1$data %>% 
   mutate(y = pred_spline, 
          y_se = sqrt(rowSums(Xp * (Xp %*% V)))) %>% #Xp is also based on plot1$data
@@ -145,7 +133,7 @@ These confidence bands also have a somewhat peculiar interpretation, as its freq
 
 It should also be noted that this code only works out of the box with the rank-reduced thin plate spline (which is the default in `mgcv`). Smaller adjustments have to be made if fixed/random effects and/or splines are added to the model.
 
-```{r}
+```
 (plot1+plot2)
 ```
 ![I8N9qu2.png]({{site.baseurl}}/_drafts/I8N9qu2.png)
