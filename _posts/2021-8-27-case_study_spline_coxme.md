@@ -1,6 +1,7 @@
 ---
 published: true
 title: "Case study: Fitting a penalized one-dimensional spline as random effect in `coxme`"
+abstract: "Test abstract"
 ---
 A colleague recently asked me how to fit a spline with a point constraint in a Cox proportional hazards (PH) model. After realizing that his response was interval censored I found that `mgcv::cox.ph` couldn't be used, as the right censoring is specified as a 0-weight in the syntax (event as 1). I quickly looked into other ways to estimate a penalized spline from the `mgcv` framework, and since a penalized spline can be rewritten as a random effect I needed to find another package that could estimate mixed Cox PH models, with a `Surv` object describing the response (which allows for interval censoring). One package fulfilling those criteria is `coxme`, which also support a ridge regression shrinkage for variables, which we will see is especially well suited for estimating penalized splines in a random effect setting.
 
@@ -37,14 +38,17 @@ sm <- smoothCon(
 ```
 
 
+
 ```
 smooth2random(sm, "", type = 2) -> re
 ```
 
 
+
 ```
 re$Xf -> null_space
 ```
+
 
 
 ```
@@ -64,6 +68,7 @@ gam(data = work_dataset,
 ```
 
 
+
 ```
 gam_model %>%
   gratia::draw(fun = exp) %>%
@@ -79,6 +84,7 @@ gam_model %>%
        y = "Hazard ratio") -> 
   plot1
 ```
+
 
 
 ```
@@ -99,9 +105,11 @@ c(test_model$frail$`1`, coef(test_model)["null_space"]) -> beta_hat
 ```
 
 
+
 ```
 Xp%*%as.vector(beta_hat) -> pred_spline
 ```
+
 
 
 ```
