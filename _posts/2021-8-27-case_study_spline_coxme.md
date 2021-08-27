@@ -7,7 +7,7 @@ A colleague recently asked me how to fit a spline with a point constraint in a C
 
 First, we load some package:
 
-```
+```{r}
 pacman::p_load(tidyverse,
                survival, 
                coxme, 
@@ -35,23 +35,11 @@ sm <- smoothCon(
   diagonal.penalty = TRUE
   # the spline is reparameterized to turn the penalty into an identity matrix
 )[[1]]
-```
 
-
-
-```
 smooth2random(sm, "", type = 2) -> re
-```
 
-
-
-```
 re$Xf -> null_space
-```
 
-
-
-```
 re$rand$Xr %*% re$trans.U[-ncol(re$trans.U), -ncol(re$trans.U)] ->
   penalized_space # Reorder the matrix of the random effect part
 ```
@@ -65,11 +53,7 @@ gam(data = work_dataset,
     method = "REML",
     family = cox.ph) -> 
   gam_model
-```
 
-
-
-```
 gam_model %>%
   gratia::draw(fun = exp) %>%
   .$data %>%
@@ -83,11 +67,7 @@ gam_model %>%
   labs(title = "mgcv", 
        y = "Hazard ratio") -> 
   plot1
-```
 
-
-
-```
 coxme(formula = Surv(time = futime, event = death) ~ null_space + (penalized_space | 1), 
       data = work_dataset) -> 
   test_model
@@ -97,22 +77,11 @@ To plot the estimated spline from `coxme` we need to extract the estimated coeff
 
 ```
 Xp <- PredictMat(sm, plot1$data)
-```
 
-
-```
 c(test_model$frail$`1`, coef(test_model)["null_space"]) -> beta_hat
-```
 
-
-
-```
 Xp%*%as.vector(beta_hat) -> pred_spline
-```
 
-
-
-```
 V <- test_model$variance 
 # works if there are no fixed effects as they are in same order as in Xp
 ```
