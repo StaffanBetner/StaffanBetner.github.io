@@ -72,7 +72,7 @@ coxme(formula = Surv(time = futime, event = death) ~ null_space + (penalized_spa
   test_model
 ```
 
-To plot the estimated spline from `coxme` we need to extract the estimated coefficients for the spline, and its covariance matrix. We setup a "prediction matrix" that tells us how the bases are evaluated at each value for `creat`, where we take the values from the grid from `gratia::draw`. As the estimated coefficients are in the same order as the bases in the prediction matrix, we matrix multiply them to get the prediction, since <div>$ \hat{f} (x)=\sum_{k=1}^{M} \hat{\beta}_{k} g_{k}(x)$</div> where $g_{k}$ is each individual basis function. We also extract the covariance matrix for the coefficients.
+To plot the estimated spline from `coxme` we need to extract the estimated coefficients for the spline, and its covariance matrix. We setup a "prediction matrix" that tells us how the bases are evaluated at each value for `creat`, where we take the values from the grid from `gratia::draw`. As the estimated coefficients are in the same order as the bases in the prediction matrix, we matrix multiply them to get the prediction, since $\hat{f} (x)=\sum_{k=1}^{M} \hat{\beta_{k}} g_{k}(x)$, where $g_{k}$ is each individual basis function. We also extract the covariance matrix for the coefficients.
 
 ```
 Xp <- PredictMat(sm, plot1$data)
