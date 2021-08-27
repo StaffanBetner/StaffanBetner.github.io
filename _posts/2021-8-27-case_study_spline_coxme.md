@@ -145,4 +145,4 @@ It should also be noted that this code only works out of the box with the rank-r
 ```
 (plot1+plot2)
 ```
-![I8N9qu2.png]({{site.baseurl}}/mgcv_vs_coxme.png)
+![mgcv_vs_coxme.png]({{site.baseurl}}/mgcv_vs_coxme.png)
