@@ -15,8 +15,8 @@ I am a statistician living in Stockholm, Sweden. When I'm not spending time in R
 ### Employments
 
 - Research Assistant in Statistics, Swedish University of Agricultural Sciences (SLU) in Uppsala (August 2018 - August 2020)
-- Statistician, Centre for Occupational and Environmental Medicine (CAMM) in Stockholm (Since november 2020, current employment)
-	- with affiliation to the Institute of Environmental Medicine (IMM) at Karolinska Institute
+- Statistician at the unit for Environmental Medicine, Centre for Occupational and Environmental Medicine (CAMM) in Stockholm (Since november 2020, current employment)
+	- with affiliation to Petter Ljungmans research group at the unit for environmental epidemiology at the Institute of Environmental Medicine (IMM) at Karolinska Institute
 
 ### Publications
 
