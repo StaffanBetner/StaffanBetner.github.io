@@ -15,12 +15,26 @@ I am a statistician living in Stockholm, Sweden. When I'm not spending time in R
 ### Employments
 
 - Research Assistant in Statistics, Swedish University of Agricultural Sciences (SLU) in Uppsala (August 2018 - August 2020)
-- Statistician, Centre for Occupational and Environmental Medicine (CAMM) in Stockholm (Since November 2020, current employment)
+- Statistician, Centre for Occupational and Environmental Medicine (CAMM) in Stockholm (Since november 2020, current employment)
+	- with affiliation to the Institute of Environmental Medicine (IMM) at Karolinska Institute
 
 ### Publications
+
+#### Peer reviewed articles
+
 Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, 1-11. [doi:10.1017/S175173112000107X](http://doi.org/10.1017/S175173112000107X)
 
 von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, 104949. [doi:10.1016/j.envsoft.2020.104949](http://doi.org/10.1016/j.envsoft.2020.104949)
+
+Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, Brömssen, C. von, Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in Motivational Interviewing. Preventive Veterinary Medicine, 105679. https://doi.org/10.1016/j.prevetmed.2022.105679
+
+#### Preprints
+
+Ohlsson, J. A., Leong, J. X., Elander, P. H., Dauphinee, A. N., Ballhaus, F., Johansson, J., Lommel, M., Hofmann, G., **Betnér, S.**, Sandgren, M., Schumacher, K., Bozhkov, P. V., & Minina, E. A. (2021). SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists [Preprint]. Plant Biology. https://doi.org/10.1101/2021.03.15.435343
+
+#### Reports
+
+Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). Flygbuller – Bromma: Så påverkades stockholmarna av minskat flygbuller under Covid-19-pandemin. Centrum för arbets- och miljömedicin (CAMM), Region Stockholm.
 
 ### Freelance
 
