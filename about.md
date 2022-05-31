@@ -26,7 +26,7 @@ Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.*
 
 von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, 104949. [doi:10.1016/j.envsoft.2020.104949](http://doi.org/10.1016/j.envsoft.2020.104949)
 
-Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, Brömssen, C. von, Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in Motivational Interviewing. Preventive Veterinary Medicine, 105679. https://doi.org/10.1016/j.prevetmed.2022.105679
+Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in motivational interviewing. Preventive Veterinary Medicine, 204, 105679. [doi:10.1016/j.prevetmed.2022.10567](https://doi.org/10.1016/j.prevetmed.2022.10567) 
 
 #### Preprints
 
