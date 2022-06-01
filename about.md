@@ -30,7 +30,8 @@ Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., 
 
 #### Preprints
 
-Ohlsson, J. A., Leong, J. X., Elander, P. H., Dauphinee, A. N., Ballhaus, F., Johansson, J., Lommel, M., Hofmann, G., **Betnér, S.**, Sandgren, M., Schumacher, K., Bozhkov, P. V., & Minina, E. A. (2021). SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists [Preprint]. Plant Biology. https://doi.org/10.1101/2021.03.15.435343
+Ohlsson, J. A., Leong, J. X., Elander, P. H., Dauphinee, A. N., Ballhaus, F., Johansson, J., Lommel, M., Hofmann, G., **Betnér, S.**, Sandgren, M., Schumacher, K., Bozhkov, P. V., & Minina, E. A. (2021). SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists [Preprint]. Plant Biology. 
+[doi:10.1101/2021.03.15.435343](https://doi.org/10.1101/2021.03.15.435343) 
 
 #### Reports
 
