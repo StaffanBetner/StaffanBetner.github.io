@@ -36,6 +36,9 @@ von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox
 
 Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in motivational interviewing. Preventive Veterinary Medicine, 204, 105679. [doi:10.1016/j.prevetmed.2022.10567](https://doi.org/10.1016/j.prevetmed.2022.10567) 
 
+Maclachlan, L., **Betnér, S.**, Lind, T., Georgelis, A., & Lõhmus, M. (2023). The association between zero-crossing temperatures and accidents due to icy conditions. Scandinavian Journal of Public Health, 140349482211480. [doi:10.1177/14034948221148046](https://doi.org/10.1177/14034948221148046)
+
+
 #### Preprints
 
 Ohlsson, J. A., Leong, J. X., Elander, P. H., Dauphinee, A. N., Ballhaus, F., Johansson, J., Lommel, M., Hofmann, G., **Betnér, S.**, Sandgren, M., Schumacher, K., Bozhkov, P. V., & Minina, E. A. (2021). SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists [Preprint]. Plant Biology. 
