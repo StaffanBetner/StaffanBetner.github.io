@@ -21,7 +21,7 @@ I am a statistician living in Umeå, Sweden. When I'm not spending time in R, do
   - *Statistician, Unit for Environmental Medicine* (November 2020 - February 2023)
     - Affiliation with Petter Ljungman's research group within the Unit for Environmental Epidemiology at the Institute of Environmental Medicine (IMM), Karolinska Institute
 
-- **Register Centre North (RCN), Region Västerbotten, Umeå**
+- **Northern Registry Centre (RCN), Region Västerbotten, Umeå**
   - *Research Support Statistician* (February 2023 - Present)
     - Affiliation with the Department of Public Health and Clinical Medicine, Umeå University
 
