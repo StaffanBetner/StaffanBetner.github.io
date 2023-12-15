@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-I am a statistician living in Umeå, Sweden. When I'm not spending time in R, doing all kinds of statisticial analyses (both for work and for leisure), I am a hobby (genetic) genealogist and a (currently on hiatus) choir singer.
+I am a statistician living in Umeå, Sweden. When I'm not spending time in R, doing all kinds of statisticial analyses (both for work and for leisure), I am a hobby (genetic) genealogist and a choir singer (currently on hiatus).
 
 ### Education
 - Degree of Bachelor of Social Science in Statistics. Uppsala University (2016)
