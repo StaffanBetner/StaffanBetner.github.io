@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-I am a statistician living in Umeå, Sweden. When I'm not spending time in R, doing all kinds of statisticial analyses (both for work and for leisure), I am a hobby (genetic) genealogist and a (currently former) choir singer.
+I am a statistician living in Umeå, Sweden. When I'm not spending time in R, doing all kinds of statisticial analyses (both for work and for leisure), I am a hobby (genetic) genealogist and a (currently on hiatus) choir singer.
 
 ### Education
 - Degree of Bachelor of Social Science in Statistics. Uppsala University (2016)
@@ -38,6 +38,7 @@ Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., 
 
 Maclachlan, L., **Betnér, S.**, Lind, T., Georgelis, A., & Lõhmus, M. (2023). The association between zero-crossing temperatures and accidents due to icy conditions. Scandinavian Journal of Public Health, 140349482211480. [doi:10.1177/14034948221148046](https://doi.org/10.1177/14034948221148046)
 
+Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2023). Sociodemographic inequalities in long-term exposure to air pollution, road traffic noise, and greenness: A population-based cohort study of women. Environmental Epidemiology, 7(6), e279. [doi:10.1097/EE9.0000000000000279](https://doi.org/10.1097/EE9.0000000000000279)
 
 #### Preprints
 
