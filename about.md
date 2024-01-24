@@ -40,10 +40,7 @@ Maclachlan, L., **Betnér, S.**, Lind, T., Georgelis, A., & Lõhmus, M. (2023). 
 
 Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2023). Sociodemographic inequalities in long-term exposure to air pollution, road traffic noise, and greenness: A population-based cohort study of women. Environmental Epidemiology, 7(6), e279. [doi:10.1097/EE9.0000000000000279](https://doi.org/10.1097/EE9.0000000000000279)
 
-#### Preprints
-
-Ohlsson, J. A., Leong, J. X., Elander, P. H., Dauphinee, A. N., Ballhaus, F., Johansson, J., Lommel, M., Hofmann, G., **Betnér, S.**, Sandgren, M., Schumacher, K., Bozhkov, P. V., & Minina, E. A. (2021). SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists [Preprint]. Plant Biology. 
-[doi:10.1101/2021.03.15.435343](https://doi.org/10.1101/2021.03.15.435343) 
+Ohlsson, J. A., Leong, J. X., Elander, P. H., Ballhaus, F., Holla, S., Dauphinee, A. N., Johansson, J., Lommel, M., Hofmann, G., **Betnér, S.**, Sandgren, M., Schumacher, K., Bozhkov, P. V., & Minina, E. A. (2023). SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists. Plant Journal. [doi:10.1111/tpj.16587](https://doi.org/10.1111/tpj.16587)
 
 #### Reports
 
