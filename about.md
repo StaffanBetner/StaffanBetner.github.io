@@ -47,6 +47,16 @@ Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.*
 
 Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). Flygbuller – Bromma: Så påverkades stockholmarna av minskat flygbuller under Covid-19-pandemin. Centrum för arbets- och miljömedicin (CAMM), Region Stockholm.
 
+#### Conference Contributions
+
+Maclachlan, L., **Betnér, S.**, Lind, T., Georgelis, A., & Lõhmus, M. (2022). *The association between zero-crossing temperatures and accidents due to icy conditions* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
+
+Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2022). *Long-term exposure to air pollution, road traffic noise, and surrounding greenness in relation to sociodemographic inequalities – a Swedish population-based cohort study of women* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
+
+Svensson, C., Wickström, H., Forsberg, L., Reyher, K. K., **Betnér, S.**, von Brömssen, C., Bard, A. M., & Emanuelson, U. (2022). *Swedish dairy cattle veterinarians spend little time on advisory visits despite highly satisfied clients: Can training in Motivational Interviewing help to stimulate efforts?* [Poster presentation]. Presented at the World Buiatrics Congress (WBC), Madrid, Spain, September 4-8.
+
+Svensson, C., Wickström, H., Emanuelson, U., von Brömssen, C., **Betnér, S.**, & Forsberg, L. (2019). *Dairy veterinarians’ skill in Motivational Interviewing is linked to enhanced veterinary herd health management consultations* [Conference contribution]. Presented at the 17th International Conference on Production Diseases in Farm Animals (ICPD), Bern, Switzerland, June 27-29.
+
 ### Other Scientific Contributions
 
 In addition to co-authorship, I have also been acknowledged in the following publications, mainly for providing statistical advice and support:
