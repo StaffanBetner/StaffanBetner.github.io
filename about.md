@@ -49,7 +49,7 @@ Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A
 
 #### Conference Contributions
 
-Maclachlan, L., **Betnér, S.**, Lind, T., Georgelis, A., & Lõhmus, M. (2022). *The association between zero-crossing temperatures and accidents due to icy conditions* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
+Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). *Health impacts of a reduced aircraft noise exposure during the Covid-19-pandemic - A natural experiment in Stockholm, Sweden* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
 
 Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2022). *Long-term exposure to air pollution, road traffic noise, and surrounding greenness in relation to sociodemographic inequalities – a Swedish population-based cohort study of women* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
 
