@@ -6,6 +6,8 @@ published: true
 ---
 I am a statistician living in Umeå, Sweden. When I'm not using R to carry out all kinds of statistical analyses for work or leisure, I enjoy pursuing my hobbies of (genetic) genealogy and choir singing (currently on hiatus).
 
+{% toc %}
+
 ### Education
 - Degree of Master of Social Science (120 credits) in Statistics. Uppsala University (2018)
 	- Master thesis: [Trends in Forest Soil Acidity: A GAM Based Approach with Application on Swedish Forest Soil Inventory Data](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1215453&dswid=3979)
