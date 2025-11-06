@@ -29,7 +29,7 @@ I am a statistician living in Umeå, Sweden. When I'm not using R to carry out a
 
 #### Peer reviewed articles
 
-Larsson, K., **Betnér, S.**, Fuchs, B., Vanfleteren, L. E. G. W., & Stridsman, C. (forthcoming). Socioeconomic status related to prescription of triple therapy and anticholinergic monotherapy in patients with chronic obstructive pulmonary disease (COPD) in Sweden: A retrospective national registry study. *International Journal of Chronic Obstructive Pulmonary Disease*.
+Larsson, K., **Betnér, S.**, Fuchs, B., Vanfleteren, L. E. G. W., & Stridsman, C. (2025). Socioeconomic status related to prescription of triple therapy and anticholinergic monotherapy in patients with chronic obstructive pulmonary disease (COPD) in Sweden: A retrospective national registry study. *International Journal of Chronic Obstructive Pulmonary Disease*, *20*, 3597–3606. [doi:10.2147/COPD.S39470](https://doi.org/10.2147/COPD.S39470)
 
 Wänman, M., **Betnér, S.**, Esberg, A., Holm, C. K., Isehed, C., Holmlund, A., Palmqvist, P., Lövgren, A., Lindquist, S., Hänström, L., Lerner, U. H., Kindstedt, E., & Lundberg, P. (2024). The PerioGene North Study Uncovers Serum Proteins Related to Periodontitis. *Journal of Dental Research*, *103*(10), 999–1007. [doi:10.1177/00220345241263320](https://doi.org/10.1177/00220345241263320)
 
