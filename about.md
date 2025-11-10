@@ -39,7 +39,7 @@ Ohlsson, J. A., Leong, J. X., Elander, P. H., Ballhaus, F., Holla, S., Dauphinee
 
 Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2023). Sociodemographic inequalities in long-term exposure to air pollution, road traffic noise, and greenness: A population-based cohort study of women. *Environmental Epidemiology*, *7*(6), e279. [doi:10.1097/EE9.0000000000000279](https://doi.org/10.1097/EE9.0000000000000279)
 
-Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in motivational interviewing. *Preventive Veterinary Medicine*, *204*, 105679. [doi:10.1016/j.prevetmed.2022.10567](https://doi.org/10.1016/j.prevetmed.2022.10567) 
+Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in motivational interviewing. *Preventive Veterinary Medicine*, *204*, 105679. [doi:10.1016/j.prevetmed.2022.105679](https://doi.org/10.1016/j.prevetmed.2022.105679) 
 
 von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, *133*, 104949. [doi:10.1016/j.envsoft.2020.104949](http://doi.org/10.1016/j.envsoft.2020.104949)
 
