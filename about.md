@@ -105,15 +105,27 @@ In addition to co-authorship, I have also been acknowledged in the following pub
 
 - Campos-Pereira, H., Makselon, J., Kleja, D. B., Prater, I., Kögel-Knabner, I., Ahrens, L., & Gustafsson, J. P. (2022). Binding of per- and polyfluoroalkyl substances (PFASs) by organic soil materials with different structural composition – Charge- and concentration-dependent sorption behavior. *Chemosphere*, 297, 134167. [doi:10.1016/j.chemosphere.2022.134167](https://doi.org/10.1016/j.chemosphere.2022.134167)
 
+	***Acknowledgments*** *[...] The authors further wish to thank Staffan Betnér [...] for statistical modeling and advice.*
+
 - Raderschall, C. A., Bommarco, R., Lindström, S. A. M., & Lundin, O. (2021). Landscape crop diversity and semi-natural habitat affect crop pollinators, pollination benefit and yield. *Agriculture, Ecosystems and Environment*, 306, 107189. [doi:10.1016/j.agee.2020.107189](https://doi.org/10.1016/j.agee.2020.107189)
+
+	***Acknowledgements*** *[...] Staffan Betnér we would like to thank for their help with statistical analyses [...]*
 
 - Anglart, D. (2021). Indicators of mastitis and milk quality in dairy cows: Data, modeling, and prediction in automatic milking systems. *Doctoral Thesis No. 2021:5*, Swedish University of Agricultural Sciences, Uppsala. [https://publications.slu.se/?file=publ/show&id=109777](https://publications.slu.se/?file=publ/show&id=109777)
 
+	*[...] Staffan Betnér, thank you for all the statistical support and patience with all questions!*
+
 - Dahlgren, P. M. (2020). Media Echo Chambers: Selective Exposure and Confirmation Bias in Media Use, and its Consequences for Political Polarization. *Doctoral Thesis*, University of Gothenburg. [http://hdl.handle.net/2077/67023](http://hdl.handle.net/2077/67023)
+
+	*Thanks to Staffan Betnér for bringing this measure to my attention.*
 
 - Anglart, D., Hallén-Sandgren, C., Waldmann, P., Wiedemann, M., & Emanuelson, U. (2020). Modeling cow somatic cell count using sensor data as input to generalized additive models. *Journal of Dairy Research*, 87(3), 282-289. [doi:10.1017/S0022029920000692](https://doi.org/10.1017/S0022029920000692)
 
+	***Acknowledgements.*** *[...] We would like to thank Staffan Betnér at Swedish University of Agricultural Sciences for statistical support [...]*
+
 - Blomberg, I. (2019). A study on Swedish researchers' attitudes and views of the 3Rs. *Master's thesis*, Swedish University of Agricultural Sciences, Uppsala. [https://stud.epsilon.slu.se/14307/](https://stud.epsilon.slu.se/14307/)
+
+	***Acknowledgements*** *[...] I would also like to thank Staffan Betnér for his statistical advice [...]*
 
 ### Freelance
 
