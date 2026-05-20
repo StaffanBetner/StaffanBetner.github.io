@@ -66,7 +66,7 @@ In addition to co-authorship, I have also been acknowledged in the following pub
 Olsson, D., Levring Jäghagen, E., & Garoff, M. (2026). Operator-related low diagnostic quality in bitewing examinations performed with sensors. *Acta Odontologica Scandinavica*, 85, 245–253. [doi:10.2340/aos.v85.46001](https://doi.org/10.2340/aos.v85.46001)
 
 Rundkvist, M. (2026). Spheres of power and local dialects of Style II animal art in Vendel Period Zealand and Scania. Tissø, Lejre, Uppåkra, AD 570–770. *Praehistorische Zeitschrift*. [doi:10.1515/pz-2025-2036](https://doi.org/10.1515/pz-2025-2036)
-> *"Many thanks [...] to Staffan Betnér for his online seriation software!"*
+<span style="color: #666; font-size: 0.85em; display: block; margin-top: 5px;">Acknowledgment: "Many thanks [...] to Staffan Betnér for his online seriation software!"</span>
 
 Thalén, D., Hellman, U., Wennerlund, J., Gunnarsson, U., Sundbom, M., & Strigård, K. (2026). Hyaluronan and Associated Biomarkers: A Longitudinal Cohort Study in Patients with Obesity Following Gastric Bypass Surgery. *Obesity Surgery*, 36(4), 1696–1704. [doi:10.1007/s11695-026-08564-x](https://doi.org/10.1007/s11695-026-08564-x)
 
