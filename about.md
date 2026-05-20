@@ -29,35 +29,35 @@ I am a statistician living in Umeå, Sweden. When I'm not using R to carry out a
 
 #### Peer reviewed articles
 
-Larsson, K., **Betnér, S.**, Fuchs, B., Vanfleteren, L. E. G. W., & Stridsman, C. (2025). Socioeconomic status related to prescription of triple therapy and anticholinergic monotherapy in patients with chronic obstructive pulmonary disease (COPD) in Sweden: A retrospective national registry study. *International Journal of Chronic Obstructive Pulmonary Disease*, *20*, 3597–3606. [doi:10.2147/COPD.S539470](https://doi.org/10.2147/COPD.S539470)
+- Larsson, K., **Betnér, S.**, Fuchs, B., Vanfleteren, L. E. G. W., & Stridsman, C. (2025). Socioeconomic status related to prescription of triple therapy and anticholinergic monotherapy in patients with chronic obstructive pulmonary disease (COPD) in Sweden: A retrospective national registry study. *International Journal of Chronic Obstructive Pulmonary Disease*, *20*, 3597–3606. [doi:10.2147/COPD.S539470](https://doi.org/10.2147/COPD.S539470)
 
-Wänman, M., **Betnér, S.**, Esberg, A., Holm, C. K., Isehed, C., Holmlund, A., Palmqvist, P., Lövgren, A., Lindquist, S., Hänström, L., Lerner, U. H., Kindstedt, E., & Lundberg, P. (2024). The PerioGene North Study Uncovers Serum Proteins Related to Periodontitis. *Journal of Dental Research*, *103*(10), 999–1007. [doi:10.1177/00220345241263320](https://doi.org/10.1177/00220345241263320)
+- Wänman, M., **Betnér, S.**, Esberg, A., Holm, C. K., Isehed, C., Holmlund, A., Palmqvist, P., Lövgren, A., Lindquist, S., Hänström, L., Lerner, U. H., Kindstedt, E., & Lundberg, P. (2024). The PerioGene North Study Uncovers Serum Proteins Related to Periodontitis. *Journal of Dental Research*, *103*(10), 999–1007. [doi:10.1177/00220345241263320](https://doi.org/10.1177/00220345241263320)
 
-Maclachlan, L., **Betnér, S.**, Lind, T., Georgelis, A., & Lõhmus, M. (2025). The association between zero-crossing temperatures and accidents due to icy conditions. *Scandinavian Journal of Public Health*, *53*, 156–161. [doi:10.1177/14034948221148046](https://doi.org/10.1177/14034948221148046)
+- Maclachlan, L., **Betnér, S.**, Lind, T., Georgelis, A., & Lõhmus, M. (2025). The association between zero-crossing temperatures and accidents due to icy conditions. *Scandinavian Journal of Public Health*, *53*, 156–161. [doi:10.1177/14034948221148046](https://doi.org/10.1177/14034948221148046)
 
-Ohlsson, J. A., Leong, J. X., Elander, P. H., Ballhaus, F., Holla, S., Dauphinee, A. N., Johansson, J., Lommel, M., Hofmann, G., **Betnér, S.**, Sandgren, M., Schumacher, K., Bozhkov, P. V., & Minina, E. A. (2023). SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists. *Plant Journal*. [doi:10.1111/tpj.16587](https://doi.org/10.1111/tpj.16587)
+- Ohlsson, J. A., Leong, J. X., Elander, P. H., Ballhaus, F., Holla, S., Dauphinee, A. N., Johansson, J., Lommel, M., Hofmann, G., **Betnér, S.**, Sandgren, M., Schumacher, K., Bozhkov, P. V., & Minina, E. A. (2023). SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists. *Plant Journal*. [doi:10.1111/tpj.16587](https://doi.org/10.1111/tpj.16587)
 
-Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2023). Sociodemographic inequalities in long-term exposure to air pollution, road traffic noise, and greenness: A population-based cohort study of women. *Environmental Epidemiology*, *7*(6), e279. [doi:10.1097/EE9.0000000000000279](https://doi.org/10.1097/EE9.0000000000000279)
+- Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2023). Sociodemographic inequalities in long-term exposure to air pollution, road traffic noise, and greenness: A population-based cohort study of women. *Environmental Epidemiology*, *7*(6), e279. [doi:10.1097/EE9.0000000000000279](https://doi.org/10.1097/EE9.0000000000000279)
 
-Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in motivational interviewing. *Preventive Veterinary Medicine*, *204*, 105679. [doi:10.1016/j.prevetmed.2022.105679](https://doi.org/10.1016/j.prevetmed.2022.105679) 
+- Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in motivational interviewing. *Preventive Veterinary Medicine*, *204*, 105679. [doi:10.1016/j.prevetmed.2022.105679](https://doi.org/10.1016/j.prevetmed.2022.105679) 
 
-von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, *133*, 104949. [doi:10.1016/j.envsoft.2020.104949](http://doi.org/10.1016/j.envsoft.2020.104949)
+- von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, *133*, 104949. [doi:10.1016/j.envsoft.2020.104949](http://doi.org/10.1016/j.envsoft.2020.104949)
 
-Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, *14*(10), 2167-2177. [doi:10.1017/S175173112000107X](http://doi.org/10.1017/S175173112000107X)
+- Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, *14*(10), 2167-2177. [doi:10.1017/S175173112000107X](http://doi.org/10.1017/S175173112000107X)
 
 #### Reports
 
-Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). Flygbuller – Bromma: Så påverkades stockholmarna av minskat flygbuller under Covid-19-pandemin. Centrum för arbets- och miljömedicin (CAMM), Region Stockholm.
+- Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). Flygbuller – Bromma: Så påverkades stockholmarna av minskat flygbuller under Covid-19-pandemin. Centrum för arbets- och miljömedicin (CAMM), Region Stockholm.
 
 #### Conference Contributions
 
-Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). *Health impacts of a reduced aircraft noise exposure during the Covid-19-pandemic - A natural experiment in Stockholm, Sweden* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
+- Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). *Health impacts of a reduced aircraft noise exposure during the Covid-19-pandemic - A natural experiment in Stockholm, Sweden* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
 
-Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2022). *Long-term exposure to air pollution, road traffic noise, and surrounding greenness in relation to sociodemographic inequalities – a Swedish population-based cohort study of women* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
+- Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2022). *Long-term exposure to air pollution, road traffic noise, and surrounding greenness in relation to sociodemographic inequalities – a Swedish population-based cohort study of women* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
 
-Svensson, C., Wickström, H., Forsberg, L., Reyher, K. K., **Betnér, S.**, von Brömssen, C., Bard, A. M., & Emanuelson, U. (2022). *Swedish dairy cattle veterinarians spend little time on advisory visits despite highly satisfied clients: Can training in Motivational Interviewing help to stimulate efforts?* [Poster presentation]. Presented at the World Buiatrics Congress (WBC), Madrid, Spain, September 4-8.
+- Svensson, C., Wickström, H., Forsberg, L., Reyher, K. K., **Betnér, S.**, von Brömssen, C., Bard, A. M., & Emanuelson, U. (2022). *Swedish dairy cattle veterinarians spend little time on advisory visits despite highly satisfied clients: Can training in Motivational Interviewing help to stimulate efforts?* [Poster presentation]. Presented at the World Buiatrics Congress (WBC), Madrid, Spain, September 4-8.
 
-Svensson, C., Wickström, H., Emanuelson, U., von Brömssen, C., **Betnér, S.**, & Forsberg, L. (2019). *Dairy veterinarians’ skill in Motivational Interviewing is linked to enhanced veterinary herd health management consultations* [Conference contribution]. Presented at the 17th International Conference on Production Diseases in Farm Animals (ICPD), Bern, Switzerland, June 27-29.
+- Svensson, C., Wickström, H., Emanuelson, U., von Brömssen, C., **Betnér, S.**, & Forsberg, L. (2019). *Dairy veterinarians’ skill in Motivational Interviewing is linked to enhanced veterinary herd health management consultations* [Conference contribution]. Presented at the 17th International Conference on Production Diseases in Farm Animals (ICPD), Bern, Switzerland, June 27-29.
 
 ### Other Scientific Contributions
 
@@ -71,33 +71,33 @@ In addition to co-authorship, I have also been acknowledged in the following pub
     
     *"Many thanks [...] to Staffan Betnér for his online seriation software!"*
 
-Thalén, D., Hellman, U., Wennerlund, J., Gunnarsson, U., Sundbom, M., & Strigård, K. (2026). Hyaluronan and Associated Biomarkers: A Longitudinal Cohort Study in Patients with Obesity Following Gastric Bypass Surgery. *Obesity Surgery*, 36(4), 1696–1704. [doi:10.1007/s11695-026-08564-x](https://doi.org/10.1007/s11695-026-08564-x)
+- Thalén, D., Hellman, U., Wennerlund, J., Gunnarsson, U., Sundbom, M., & Strigård, K. (2026). Hyaluronan and Associated Biomarkers: A Longitudinal Cohort Study in Patients with Obesity Following Gastric Bypass Surgery. *Obesity Surgery*, 36(4), 1696–1704. [doi:10.1007/s11695-026-08564-x](https://doi.org/10.1007/s11695-026-08564-x)
 
-Kutschke, A., Schierz, O., Lövgren, A., Peck, C., Durham, J., & Häggman-Henrikson, B. (2025). Screening Instruments for Temporomandibular Disorders: A Systematic Review and Meta-Analysis. *The Journal of Evidence-Based Dental Practice*, 102204. [doi:10.1016/j.jebdp.2025.102204](https://doi.org/10.1016/j.jebdp.2025.102204)
+- Kutschke, A., Schierz, O., Lövgren, A., Peck, C., Durham, J., & Häggman-Henrikson, B. (2025). Screening Instruments for Temporomandibular Disorders: A Systematic Review and Meta-Analysis. *The Journal of Evidence-Based Dental Practice*, 102204. [doi:10.1016/j.jebdp.2025.102204](https://doi.org/10.1016/j.jebdp.2025.102204)
 
-Onkamo, E., Sundström, B., & Wahlin, B. (2025). Minimal seasonal variation in disease parameters of axial spondyloarthritis: a register-based study. *Rheumatology International*, 45, 174. [doi:10.1007/s00296-025-05913-4](https://doi.org/10.1007/s00296-025-05913-4)
+- Onkamo, E., Sundström, B., & Wahlin, B. (2025). Minimal seasonal variation in disease parameters of axial spondyloarthritis: a register-based study. *Rheumatology International*, 45, 174. [doi:10.1007/s00296-025-05913-4](https://doi.org/10.1007/s00296-025-05913-4)
 
-Faghihian, H., Böthun, A., Häggman-Henrikson, B., Lalouni, M., Svensson, P., Hellström, F., Andersson, L., & Lövgren, A. (2024). Gender variability in palpation performance for temporomandibular disorders with three different methods: An experimental study. *European Journal of Oral Sciences*, 132, e13026. [doi:10.1111/eos.13026](https://doi.org/10.1111/eos.13026)
+- Faghihian, H., Böthun, A., Häggman-Henrikson, B., Lalouni, M., Svensson, P., Hellström, F., Andersson, L., & Lövgren, A. (2024). Gender variability in palpation performance for temporomandibular disorders with three different methods: An experimental study. *European Journal of Oral Sciences*, 132, e13026. [doi:10.1111/eos.13026](https://doi.org/10.1111/eos.13026)
 
-Stucki, L., Helte, E., Axelsson, Ö., Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2024). Long-term exposure to air pollution, road traffic noise and greenness, and incidence of myocardial infarction in women. *Environment International*, 190, 108878. [doi:10.1016/j.envint.2024.108878](https://doi.org/10.1016/j.envint.2024.108878)
+- Stucki, L., Helte, E., Axelsson, Ö., Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2024). Long-term exposure to air pollution, road traffic noise and greenness, and incidence of myocardial infarction in women. *Environment International*, 190, 108878. [doi:10.1016/j.envint.2024.108878](https://doi.org/10.1016/j.envint.2024.108878)
 
-Rydén, J. (2024). Tales of the Wakeby Tail and Alternatives when Modelling Extreme Floods. *REVSTAT Statistical Journal*, 22(1), 45-60. [doi:10.57805/revstat.v22i1.454](https://doi.org/10.57805/revstat.v22i1.454)
+- Rydén, J. (2024). Tales of the Wakeby Tail and Alternatives when Modelling Extreme Floods. *REVSTAT Statistical Journal*, 22(1), 45-60. [doi:10.57805/revstat.v22i1.454](https://doi.org/10.57805/revstat.v22i1.454)
 
-Bard, A., Forsberg, L., Wickström, H., Emanuelson, U., Reyher, K., & Svensson, C. (2023). Clinician motivational interviewing skills in 'simulated' and 'real-life' consultations differ and show predictive validity for 'real life' client change talk under differing integrity thresholds. *PeerJ*, 11, e14634. [doi:10.7717/peerj.14634](https://doi.org/10.7717/peerj.14634)
+- Bard, A., Forsberg, L., Wickström, H., Emanuelson, U., Reyher, K., & Svensson, C. (2023). Clinician motivational interviewing skills in 'simulated' and 'real-life' consultations differ and show predictive validity for 'real life' client change talk under differing integrity thresholds. *PeerJ*, 11, e14634. [doi:10.7717/peerj.14634](https://doi.org/10.7717/peerj.14634)
 
-Cerullo, E., Jones, H. E., Carter, O., Quinn, T. J., Cooper, N. J., & Sutton, A. J. (2022). Meta-analysis of dichotomous and ordinal tests with an imperfect gold standard. *Research Synthesis Methods*, 13(5), 595-611. [doi:10.1002/jrsm.1567](https://doi.org/10.1002/jrsm.1567)
+- Cerullo, E., Jones, H. E., Carter, O., Quinn, T. J., Cooper, N. J., & Sutton, A. J. (2022). Meta-analysis of dichotomous and ordinal tests with an imperfect gold standard. *Research Synthesis Methods*, 13(5), 595-611. [doi:10.1002/jrsm.1567](https://doi.org/10.1002/jrsm.1567)
 
-Campos-Pereira, H., Makselon, J., Kleja, D. B., Prater, I., Kögel-Knabner, I., Ahrens, L., & Gustafsson, J. P. (2022). Binding of per- and polyfluoroalkyl substances (PFASs) by organic soil materials with different structural composition – Charge- and concentration-dependent sorption behavior. *Chemosphere*, 297, 134167. [doi:10.1016/j.chemosphere.2022.134167](https://doi.org/10.1016/j.chemosphere.2022.134167)
+- Campos-Pereira, H., Makselon, J., Kleja, D. B., Prater, I., Kögel-Knabner, I., Ahrens, L., & Gustafsson, J. P. (2022). Binding of per- and polyfluoroalkyl substances (PFASs) by organic soil materials with different structural composition – Charge- and concentration-dependent sorption behavior. *Chemosphere*, 297, 134167. [doi:10.1016/j.chemosphere.2022.134167](https://doi.org/10.1016/j.chemosphere.2022.134167)
 
-Raderschall, C. A., Bommarco, R., Lindström, S. A. M., & Lundin, O. (2021). Landscape crop diversity and semi-natural habitat affect crop pollinators, pollination benefit and yield. *Agriculture, Ecosystems and Environment*, 306, 107189. [doi:10.1016/j.agee.2020.107189](https://doi.org/10.1016/j.agee.2020.107189)
+- Raderschall, C. A., Bommarco, R., Lindström, S. A. M., & Lundin, O. (2021). Landscape crop diversity and semi-natural habitat affect crop pollinators, pollination benefit and yield. *Agriculture, Ecosystems and Environment*, 306, 107189. [doi:10.1016/j.agee.2020.107189](https://doi.org/10.1016/j.agee.2020.107189)
 
-Anglart, D. (2021). Indicators of mastitis and milk quality in dairy cows: Data, modeling, and prediction in automatic milking systems. *Doctoral Thesis No. 2021:5*, Swedish University of Agricultural Sciences, Uppsala. [https://publications.slu.se/?file=publ/show&id=109777](https://publications.slu.se/?file=publ/show&id=109777)
+- Anglart, D. (2021). Indicators of mastitis and milk quality in dairy cows: Data, modeling, and prediction in automatic milking systems. *Doctoral Thesis No. 2021:5*, Swedish University of Agricultural Sciences, Uppsala. [https://publications.slu.se/?file=publ/show&id=109777](https://publications.slu.se/?file=publ/show&id=109777)
 
-Dahlgren, P. M. (2020). Media Echo Chambers: Selective Exposure and Confirmation Bias in Media Use, and its Consequences for Political Polarization. *Doctoral Thesis*, University of Gothenburg. [http://hdl.handle.net/2077/67023](http://hdl.handle.net/2077/67023)
+- Dahlgren, P. M. (2020). Media Echo Chambers: Selective Exposure and Confirmation Bias in Media Use, and its Consequences for Political Polarization. *Doctoral Thesis*, University of Gothenburg. [http://hdl.handle.net/2077/67023](http://hdl.handle.net/2077/67023)
 
-Anglart, D., Hallén-Sandgren, C., Waldmann, P., Wiedemann, M., & Emanuelson, U. (2020). Modeling cow somatic cell count using sensor data as input to generalized additive models. *Journal of Dairy Research*, 87(3), 282-289. [doi:10.1017/S0022029920000692](https://doi.org/10.1017/S0022029920000692)
+- Anglart, D., Hallén-Sandgren, C., Waldmann, P., Wiedemann, M., & Emanuelson, U. (2020). Modeling cow somatic cell count using sensor data as input to generalized additive models. *Journal of Dairy Research*, 87(3), 282-289. [doi:10.1017/S0022029920000692](https://doi.org/10.1017/S0022029920000692)
 
-Blomberg, I. (2019). A study on Swedish researchers' attitudes and views of the 3Rs. *Master's thesis*, Swedish University of Agricultural Sciences, Uppsala. [https://stud.epsilon.slu.se/14307/](https://stud.epsilon.slu.se/14307/)
+- Blomberg, I. (2019). A study on Swedish researchers' attitudes and views of the 3Rs. *Master's thesis*, Swedish University of Agricultural Sciences, Uppsala. [https://stud.epsilon.slu.se/14307/](https://stud.epsilon.slu.se/14307/)
 
 ### Freelance
 
