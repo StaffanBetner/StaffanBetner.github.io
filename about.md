@@ -65,17 +65,23 @@ In addition to co-authorship, I have also been acknowledged in the following pub
 
 - Olsson, D., Levring Jäghagen, E., & Garoff, M. (2026). Operator-related low diagnostic quality in bitewing examinations performed with sensors. *Acta Odontologica Scandinavica*, 85, 245–253. [doi:10.2340/aos.v85.46001](https://doi.org/10.2340/aos.v85.46001)
     
-    *"We thank Staffan Betnér, statistician at the Northern Registry Centre, for his statistical support."*
+    ***Acknowledgement*** *"We thank Staffan Betnér, statistician at the Northern Registry Centre, for his statistical support."*
 
 - Rundkvist, M. (2026). Spheres of power and local dialects of Style II animal art in Vendel Period Zealand and Scania. Tissø, Lejre, Uppåkra, AD 570–770. *Praehistorische Zeitschrift*. [doi:10.1515/pz-2025-2036](https://doi.org/10.1515/pz-2025-2036)
     
-    *"Many thanks [...] to Staffan Betnér for his online seriation software!"*
+	***Acknowledgements:*** *"[...] Many thanks [...] to Staffan Betnér for his online seriation software!"*
 
 - Thalén, D., Hellman, U., Wennerlund, J., Gunnarsson, U., Sundbom, M., & Strigård, K. (2026). Hyaluronan and Associated Biomarkers: A Longitudinal Cohort Study in Patients with Obesity Following Gastric Bypass Surgery. *Obesity Surgery*, 36(4), 1696–1704. [doi:10.1007/s11695-026-08564-x](https://doi.org/10.1007/s11695-026-08564-x)
 
+	***Acknowledgements*** *[...] Staffan Betnér [...] for discussion of appropriate statistical methods for the study.*
+
 - Kutschke, A., Schierz, O., Lövgren, A., Peck, C., Durham, J., & Häggman-Henrikson, B. (2025). Screening Instruments for Temporomandibular Disorders: A Systematic Review and Meta-Analysis. *The Journal of Evidence-Based Dental Practice*, 102204. [doi:10.1016/j.jebdp.2025.102204](https://doi.org/10.1016/j.jebdp.2025.102204)
 
+	***ACKNOWLEDGMENTS*** *The authors would like to thank [...] statistician Staffan Betnér for his help with fitting the statistical model.*
+
 - Onkamo, E., Sundström, B., & Wahlin, B. (2025). Minimal seasonal variation in disease parameters of axial spondyloarthritis: a register-based study. *Rheumatology International*, 45, 174. [doi:10.1007/s00296-025-05913-4](https://doi.org/10.1007/s00296-025-05913-4)
+
+	***Acknowledgements*** *The authors wish to express their gratitude to Staffan Betnér from Registercentrum Norr for his advice and support with the statistical analyses.*
 
 - Faghihian, H., Böthun, A., Häggman-Henrikson, B., Lalouni, M., Svensson, P., Hellström, F., Andersson, L., & Lövgren, A. (2024). Gender variability in palpation performance for temporomandibular disorders with three different methods: An experimental study. *European Journal of Oral Sciences*, 132, e13026. [doi:10.1111/eos.13026](https://doi.org/10.1111/eos.13026)
 
