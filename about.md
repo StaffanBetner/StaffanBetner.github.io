@@ -65,11 +65,11 @@ In addition to co-authorship, I have also been acknowledged in the following pub
 
 - Olsson, D., Levring Jäghagen, E., & Garoff, M. (2026). Operator-related low diagnostic quality in bitewing examinations performed with sensors. *Acta Odontologica Scandinavica*, 85, 245–253. [doi:10.2340/aos.v85.46001](https://doi.org/10.2340/aos.v85.46001)
     
-    ***Acknowledgement*** *"We thank Staffan Betnér, statistician at the Northern Registry Centre, for his statistical support."*
+    ***Acknowledgement*** *We thank Staffan Betnér, statistician at the Northern Registry Centre, for his statistical support.*
 
 - Rundkvist, M. (2026). Spheres of power and local dialects of Style II animal art in Vendel Period Zealand and Scania. Tissø, Lejre, Uppåkra, AD 570–770. *Praehistorische Zeitschrift*. [doi:10.1515/pz-2025-2036](https://doi.org/10.1515/pz-2025-2036)
     
-	***Acknowledgements:*** *"[...] Many thanks [...] to Staffan Betnér for his online seriation software!"*
+	***Acknowledgements:*** *[...] Many thanks [...] to Staffan Betnér for his online seriation software!*
 
 - Thalén, D., Hellman, U., Wennerlund, J., Gunnarsson, U., Sundbom, M., & Strigård, K. (2026). Hyaluronan and Associated Biomarkers: A Longitudinal Cohort Study in Patients with Obesity Following Gastric Bypass Surgery. *Obesity Surgery*, 36(4), 1696–1704. [doi:10.1007/s11695-026-08564-x](https://doi.org/10.1007/s11695-026-08564-x)
 
@@ -85,13 +85,23 @@ In addition to co-authorship, I have also been acknowledged in the following pub
 
 - Faghihian, H., Böthun, A., Häggman-Henrikson, B., Lalouni, M., Svensson, P., Hellström, F., Andersson, L., & Lövgren, A. (2024). Gender variability in palpation performance for temporomandibular disorders with three different methods: An experimental study. *European Journal of Oral Sciences*, 132, e13026. [doi:10.1111/eos.13026](https://doi.org/10.1111/eos.13026)
 
+	***ACKNOWLEDGMENTS*** *We extend our sincere gratitude to Staffan Betnér for assistance with statistical analysis and comments that greatly improved the manuscript. [...]*
+
 - Stucki, L., Helte, E., Axelsson, Ö., Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2024). Long-term exposure to air pollution, road traffic noise and greenness, and incidence of myocardial infarction in women. *Environment International*, 190, 108878. [doi:10.1016/j.envint.2024.108878](https://doi.org/10.1016/j.envint.2024.108878)
+
+	***Acknowledgements*** *[...] Furthermore, we would like to thank [...] Staffan Betnér for his support in data curation and formal analysis in an early stage of this study.*
 
 - Rydén, J. (2024). Tales of the Wakeby Tail and Alternatives when Modelling Extreme Floods. *REVSTAT Statistical Journal*, 22(1), 45-60. [doi:10.57805/revstat.v22i1.454](https://doi.org/10.57805/revstat.v22i1.454)
 
+	***ACKNOWLEDGMENTS*** *I am grateful to Staffan Betnér for discussion about visualisations and related coding. [...]*
+
 - Bard, A., Forsberg, L., Wickström, H., Emanuelson, U., Reyher, K., & Svensson, C. (2023). Clinician motivational interviewing skills in 'simulated' and 'real-life' consultations differ and show predictive validity for 'real life' client change talk under differing integrity thresholds. *PeerJ*, 11, e14634. [doi:10.7717/peerj.14634](https://doi.org/10.7717/peerj.14634)
 
+	***ACKNOWLEDGEMENTS*** *[...] Staffan Betnér [...] for performing the statistical analyses of MITI-CLEAR data.*
+
 - Cerullo, E., Jones, H. E., Carter, O., Quinn, T. J., Cooper, N. J., & Sutton, A. J. (2022). Meta-analysis of dichotomous and ordinal tests with an imperfect gold standard. *Research Synthesis Methods*, 13(5), 595-611. [doi:10.1002/jrsm.1567](https://doi.org/10.1002/jrsm.1567)
+
+	***Acknowledgements*** *The authors would also like to thank various members of the Stan community forums [...] including [...] Staffan Betnér [...] for providing functions which were utilised in the models and for useful discussions.*
 
 - Campos-Pereira, H., Makselon, J., Kleja, D. B., Prater, I., Kögel-Knabner, I., Ahrens, L., & Gustafsson, J. P. (2022). Binding of per- and polyfluoroalkyl substances (PFASs) by organic soil materials with different structural composition – Charge- and concentration-dependent sorption behavior. *Chemosphere*, 297, 134167. [doi:10.1016/j.chemosphere.2022.134167](https://doi.org/10.1016/j.chemosphere.2022.134167)
 
