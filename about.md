@@ -41,9 +41,9 @@ I am a statistician living in Umeå, Sweden. When I'm not using R to carry out a
 
 - Svensson, C., Wickström, H., Forsberg, L., **Betnér, S.**, von Brömssen, C., Reyher, K. K., Bard, A. M., & Emanuelson, U. (2022). Dairy herd health management activities in relation to training of veterinarians in motivational interviewing. *Preventive Veterinary Medicine*, *204*, 105679. [doi:10.1016/j.prevetmed.2022.105679](https://doi.org/10.1016/j.prevetmed.2022.105679) 
 
-- von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, *133*, 104949. [doi:10.1016/j.envsoft.2020.104949](http://doi.org/10.1016/j.envsoft.2020.104949)
+- von Brömssen, C., **Betnér, S.**, Fölster, J., & Eklöf, K. (2020). A toolbox for visualizing trends in large-scale environmental data. *Environmental Modelling & Software*, *133*, 104949. [doi:10.1016/j.envsoft.2020.104949](https://doi.org/10.1016/j.envsoft.2020.104949)
 
-- Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, *14*(10), 2167-2177. [doi:10.1017/S175173112000107X](http://doi.org/10.1017/S175173112000107X)
+- Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, *14*(10), 2167-2177. [doi:10.1017/S175173112000107X](https://doi.org/10.1017/S175173112000107X)
 
 #### Reports
 
