@@ -51,6 +51,8 @@ I am a statistician living in Umeå, Sweden. When I'm not using R to carry out a
 
 #### Conference Contributions
 
+- Vanfleteren, L. E. G. W., Stridsman, C., Larsson, K., **Betnér, S.**, & Fuchs, B. (2026). *Prescription of pharmacotherapy for COPD in Sweden diverts from the expected in groups stratified by disease severity and sex* [Oral presentation]. Presented at the 52nd Nordic Lung Congress, Reykjavik, Iceland, June 3-5.
+
 - Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). *Health impacts of a reduced aircraft noise exposure during the Covid-19-pandemic - A natural experiment in Stockholm, Sweden* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
 
 - Stucki, L., **Betnér, S.**, Selander, J., Lõhmus, M., Åkesson, A., & Eriksson, C. (2022). *Long-term exposure to air pollution, road traffic noise, and surrounding greenness in relation to sociodemographic inequalities – a Swedish population-based cohort study of women* [Conference abstract]. Presented at the 34th Annual Conference of the International Society for Environmental Epidemiology (ISEE), Athens, Greece, September 18-21.
