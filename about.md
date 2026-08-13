@@ -137,6 +137,10 @@ Before the 2018 Swedish general election, I was hired by SVT, the Swedish public
 
 In 2019, SVT hired me to perform a similar analysis of their survey for the political quiz on the European Parliament election. All respondents were placed in a (Swedish) European political space. The article on the analysis can be found at [www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden](https://www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden/) (in Swedish). 
 
+### Awards
+
+- **Genealogisk Ungdoms fond (GU-fonden)** (2021) - a scholarship fund administered by the Swedish Federation of Genealogical Societies (Sveriges Släktforskarförbund) to promote genealogy among young people. Nominated by Genealogiska Föreningen and awarded for creativity and the development of smart digital tools and software for both DNA-based and traditional genealogy.
+
 ### Contact me
 
 Contact details below (the icons).
