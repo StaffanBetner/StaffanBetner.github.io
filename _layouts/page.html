@@ -37,9 +37,10 @@ layout: default
 <script>
   (function () {
     var links = Array.from(document.querySelectorAll('.page-outline a, .page-outline-mobile a'));
-    var headings = links.slice(0, {{ page.outline.size }}).map(function (link) {
-      return document.getElementById(link.hash.slice(1));
-    }).filter(Boolean);
+    var headings = Array.from(document.querySelectorAll('.page.about-page .entry h3, .page.about-page .entry h4'));
+    links.slice(0, headings.length).forEach(function (link, index) {
+      headings[index].id = link.hash.slice(1);
+    });
 
     function updateOutline() {
       var current = headings[0];
@@ -62,6 +63,10 @@ layout: default
         document.querySelector('.page-outline-mobile').open = false;
       });
     });
+    if (window.location.hash) {
+      var target = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
+      if (target) target.scrollIntoView();
+    }
     updateOutline();
   }());
 </script>

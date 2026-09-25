@@ -33,7 +33,7 @@ I am a statistician based in Umeå, Sweden, working as a research support statis
 
 Outside work, I enjoy (genetic) genealogy and choir singing (currently on hiatus).
 
-<h3 id="experience">Experience</h3>
+### Experience
 
 - **Northern Registry Centre (RCN), Region Västerbotten, Umeå**
   - *Research Support Statistician* (February 2023 - Present)
@@ -46,15 +46,15 @@ Outside work, I enjoy (genetic) genealogy and choir singing (currently on hiatus
 - **Swedish University of Agricultural Sciences (SLU), Uppsala**
   - *Research Assistant in Statistics* (August 2018 - August 2020)
 
-<h3 id="svt-projects">Freelance work: Political charts for SVT (2018 and 2019)</h3>
+### Freelance work: Political charts for SVT (2018 and 2019)
 
 Before the 2018 Swedish general election, I was hired by SVT, the Swedish public service television company, to analyze their survey for political quizzes. The assignment essentially required me to describe the political landscape quantitatively. All parties (and candidates for the Riksdag) were placed in common political spaces depending on the administrative level. The political charts for all administrative units can be seen at [valkompassen.svt.se/2018/](https://valkompassen.svt.se/2018/) and an article about the placements of the Riksdag candidates can be found [here](https://www.svt.se/special/hur-lika-ar-kandidaterna-sina-partier/) (both links are in Swedish).
 
 In 2019, SVT hired me to perform a similar analysis of their survey for the political quiz on the European Parliament election. All respondents were placed in a (Swedish) European political space. The article on the analysis can be found at [www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden](https://www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden/) (in Swedish).
 
-<h3 id="publications">Publications</h3>
+### Publications
 
-<h4 id="peer-reviewed-articles">Peer reviewed articles</h4>
+#### Peer reviewed articles
 
 Articles are listed by first online publication date; the year in a citation may reflect a later journal issue.
 
@@ -74,11 +74,11 @@ Articles are listed by first online publication date; the year in a citation may
 
 - Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, *14*(10), 2167-2177. [doi:10.1017/S175173112000107X](https://doi.org/10.1017/S175173112000107X)
 
-<h4 id="reports">Reports</h4>
+#### Reports
 
 - Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). Flygbuller – Bromma: Så påverkades stockholmarna av minskat flygbuller under Covid-19-pandemin. Centrum för arbets- och miljömedicin (CAMM), Region Stockholm.
 
-<h4 id="conference-contributions">Conference Contributions</h4>
+#### Conference Contributions
 
 - Vanfleteren, L. E. G. W., Stridsman, C., Larsson, K., **Betnér, S.**, & Fuchs, B. (2026). *Prescription of pharmacotherapy for COPD in Sweden diverts from the expected in groups stratified by disease severity and sex* [Oral presentation]. Presented at the 52nd Nordic Lung Congress, Reykjavik, Iceland, June 3-5.
 
@@ -90,7 +90,7 @@ Articles are listed by first online publication date; the year in a citation may
 
 - Svensson, C., Wickström, H., Emanuelson, U., von Brömssen, C., **Betnér, S.**, & Forsberg, L. (2019). *Dairy veterinarians’ skill in Motivational Interviewing is linked to enhanced veterinary herd health management consultations* [Conference contribution]. Presented at the 17th International Conference on Production Diseases in Farm Animals (ICPD), Bern, Switzerland, June 27-29.
 
-<h3 id="other-scientific-contributions">Other Scientific Contributions</h3>
+### Other Scientific Contributions
 
 In addition to co-authorship, I have also been acknowledged in the following publications, mainly for providing statistical advice and support:
 
@@ -158,17 +158,17 @@ In addition to co-authorship, I have also been acknowledged in the following pub
 
 	***Acknowledgements*** *[...] I would also like to thank Staffan Betnér for his statistical advice [...]*
 
-<h3 id="education">Education</h3>
+### Education
 
 - Degree of Master of Social Science (120 credits) in Statistics. Uppsala University (2018)
   - Master thesis: [Trends in Forest Soil Acidity: A GAM Based Approach with Application on Swedish Forest Soil Inventory Data](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1215453&dswid=3979)
 - Degree of Bachelor of Social Science in Statistics. Uppsala University (2016)
   - Minor subjects: Economics and Political Science
 
-<h3 id="awards">Awards</h3>
+### Awards
 
 - **Genealogisk Ungdoms fond (GU-fonden)** (2021) - a scholarship fund administered by the Swedish Federation of Genealogical Societies (Sveriges Släktforskarförbund) to promote genealogy among young people. Nominated by Genealogiska Föreningen and awarded for creativity and the development of smart digital tools and software for both DNA-based and traditional genealogy.
 
-<h3 id="contact">Contact me</h3>
+### Contact me
 
 Contact details below (the icons).

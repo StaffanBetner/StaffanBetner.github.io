@@ -405,7 +405,7 @@ nav {
   }
 
   // Give each acknowledgement quote a little more space before the next citation.
-  #other-scientific-contributions + p + ul > li {
+  h3 + p + ul > li {
     padding-bottom: 28px;
 
     + li {
