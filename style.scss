@@ -271,6 +271,149 @@ nav {
   }
 }
 
+.page.about-page {
+  position: relative;
+
+  .entry h3[id],
+  .entry h4[id] {
+    scroll-margin-top: 70px;
+  }
+}
+
+.page-outline,
+.page-outline-mobile {
+  font-size: 14px;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li.outline-subsection a {
+    padding-left: 22px;
+    font-size: 13px;
+  }
+
+  a {
+    display: block;
+    border-left: 2px solid transparent;
+    padding: 6px 10px;
+    color: $gray;
+
+    &:hover,
+    &[aria-current="location"] {
+      border-color: $blue;
+      color: $darkerGray;
+    }
+  }
+}
+
+.page-outline {
+  display: none;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: calc(100% + 24px);
+  width: 210px;
+
+  .page-outline-inner {
+    position: sticky;
+    top: 20px;
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
+  }
+
+  p {
+    margin: 0 0 8px 12px;
+    font-weight: bold;
+    color: $darkerGray;
+  }
+}
+
+.page-outline-mobile {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  max-height: 70vh;
+  overflow-y: auto;
+  margin-bottom: 24px;
+  border: 1px solid $lightGray;
+  border-radius: 5px;
+  background: $white;
+
+  summary {
+    cursor: pointer;
+    padding: 10px 14px;
+    font-weight: bold;
+  }
+
+  ul {
+    padding: 0 8px 10px;
+  }
+}
+
+@media screen and (min-width: 1240px) {
+  .page-outline {
+    display: block;
+  }
+
+  .page-outline-mobile {
+    display: none;
+  }
+}
+
+// Keep the full citations, but give bibliography entries room to breathe.
+.page.about-page .entry {
+  h4 + ul,
+  h4 + p + ul,
+  h3 + p + ul {
+    list-style: none;
+    margin: 20px 0 36px;
+    padding: 0;
+
+    > li {
+      font-size: 17px;
+      line-height: 1.55;
+      margin: 0;
+      padding: 0 0 18px;
+      border-bottom: 1px solid $lightGray;
+
+      @include mobile {
+        font-size: 16px;
+      }
+
+      + li {
+        padding-top: 18px;
+      }
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
+      > p {
+        margin: 0;
+
+        + p {
+          color: $gray;
+          border-left: 2px solid $lightGray;
+          margin-top: 12px;
+          padding-left: 14px;
+        }
+      }
+    }
+  }
+
+  // Give each acknowledgement quote a little more space before the next citation.
+  #other-scientific-contributions + p + ul > li {
+    padding-bottom: 28px;
+
+    + li {
+      padding-top: 24px;
+    }
+  }
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;

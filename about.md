@@ -2,32 +2,61 @@
 layout: page
 title: About
 permalink: /about/
+page_class: about-page
 published: true
+outline:
+  - title: Experience
+    id: experience
+  - title: SVT projects
+    id: svt-projects
+  - title: Publications
+    id: publications
+  - title: Peer reviewed articles
+    id: peer-reviewed-articles
+    subsection: true
+  - title: Reports
+    id: reports
+    subsection: true
+  - title: Conference contributions
+    id: conference-contributions
+    subsection: true
+  - title: Other scientific contributions
+    id: other-scientific-contributions
+  - title: Education
+    id: education
+  - title: Awards
+    id: awards
+  - title: Contact
+    id: contact
 ---
-I am a statistician living in Umeå, Sweden. When I'm not using R to carry out all kinds of statistical analyses for work or leisure, I enjoy pursuing my hobbies of (genetic) genealogy and choir singing (currently on hiatus).
+I am a statistician based in Umeå, Sweden, working as a research support statistician at the Northern Registry Centre (RCN), Region Västerbotten. My work has included health research, environmental statistics and political data visualisation, often using R for analysis.
 
-### Education
-- Degree of Master of Social Science (120 credits) in Statistics. Uppsala University (2018)
-	- Master thesis: [Trends in Forest Soil Acidity: A GAM Based Approach with Application on Swedish Forest Soil Inventory Data](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1215453&dswid=3979)
-- Degree of Bachelor of Social Science in Statistics. Uppsala University (2016)
-	- Minor subjects: Economics and Political Science
+Outside work, I enjoy (genetic) genealogy and choir singing (currently on hiatus).
 
-### Employments
+<h3 id="experience">Experience</h3>
 
 - **Northern Registry Centre (RCN), Region Västerbotten, Umeå**
   - *Research Support Statistician* (February 2023 - Present)
     - Affiliation with the Department of Public Health and Clinical Medicine, Umeå University
 
- - **Centre for Occupational and Environmental Medicine (CAMM), Region Stockholm, Stockholm**
-   - *Statistician, Unit for Environmental Medicine* (November 2020 - February 2023)
-     - Affiliation with Petter Ljungman's research group within the Unit for Environmental Epidemiology at the Institute of Environmental Medicine (IMM), Karolinska Institute
+- **Centre for Occupational and Environmental Medicine (CAMM), Region Stockholm, Stockholm**
+  - *Statistician, Unit for Environmental Medicine* (November 2020 - February 2023)
+    - Affiliation with Petter Ljungman's research group within the Unit for Environmental Epidemiology at the Institute of Environmental Medicine (IMM), Karolinska Institute
 
-- **Swedish University of Agricultural Sciences (SLU), Uppsala** 
+- **Swedish University of Agricultural Sciences (SLU), Uppsala**
   - *Research Assistant in Statistics* (August 2018 - August 2020)
 
-### Publications
+<h3 id="svt-projects">Freelance work: Political charts for SVT (2018 and 2019)</h3>
 
-#### Peer reviewed articles
+Before the 2018 Swedish general election, I was hired by SVT, the Swedish public service television company, to analyze their survey for political quizzes. The assignment essentially required me to describe the political landscape quantitatively. All parties (and candidates for the Riksdag) were placed in common political spaces depending on the administrative level. The political charts for all administrative units can be seen at [valkompassen.svt.se/2018/](https://valkompassen.svt.se/2018/) and an article about the placements of the Riksdag candidates can be found [here](https://www.svt.se/special/hur-lika-ar-kandidaterna-sina-partier/) (both links are in Swedish).
+
+In 2019, SVT hired me to perform a similar analysis of their survey for the political quiz on the European Parliament election. All respondents were placed in a (Swedish) European political space. The article on the analysis can be found at [www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden](https://www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden/) (in Swedish).
+
+<h3 id="publications">Publications</h3>
+
+<h4 id="peer-reviewed-articles">Peer reviewed articles</h4>
+
+Articles are listed by first online publication date; the year in a citation may reflect a later journal issue.
 
 - Larsson, K., **Betnér, S.**, Fuchs, B., Vanfleteren, L. E. G. W., & Stridsman, C. (2025). Socioeconomic status related to prescription of triple therapy and anticholinergic monotherapy in patients with chronic obstructive pulmonary disease (COPD) in Sweden: A retrospective national registry study. *International Journal of Chronic Obstructive Pulmonary Disease*, *20*, 3597–3606. [doi:10.2147/COPD.S539470](https://doi.org/10.2147/COPD.S539470)
 
@@ -45,11 +74,11 @@ I am a statistician living in Umeå, Sweden. When I'm not using R to carry out a
 
 - Svensson, C., Forsberg, L., Emanuelson, U., Reyher, K., Bard, A., **Betnér, S.**, von Brömssen, C., Wickström, H. (2020). Dairy veterinarians’ skills in motivational interviewing are linked to client verbal behavior. *Animal*, *14*(10), 2167-2177. [doi:10.1017/S175173112000107X](https://doi.org/10.1017/S175173112000107X)
 
-#### Reports
+<h4 id="reports">Reports</h4>
 
 - Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). Flygbuller – Bromma: Så påverkades stockholmarna av minskat flygbuller under Covid-19-pandemin. Centrum för arbets- och miljömedicin (CAMM), Region Stockholm.
 
-#### Conference Contributions
+<h4 id="conference-contributions">Conference Contributions</h4>
 
 - Vanfleteren, L. E. G. W., Stridsman, C., Larsson, K., **Betnér, S.**, & Fuchs, B. (2026). *Prescription of pharmacotherapy for COPD in Sweden diverts from the expected in groups stratified by disease severity and sex* [Oral presentation]. Presented at the 52nd Nordic Lung Congress, Reykjavik, Iceland, June 3-5.
 
@@ -61,7 +90,7 @@ I am a statistician living in Umeå, Sweden. When I'm not using R to carry out a
 
 - Svensson, C., Wickström, H., Emanuelson, U., von Brömssen, C., **Betnér, S.**, & Forsberg, L. (2019). *Dairy veterinarians’ skill in Motivational Interviewing is linked to enhanced veterinary herd health management consultations* [Conference contribution]. Presented at the 17th International Conference on Production Diseases in Farm Animals (ICPD), Bern, Switzerland, June 27-29.
 
-### Other Scientific Contributions
+<h3 id="other-scientific-contributions">Other Scientific Contributions</h3>
 
 In addition to co-authorship, I have also been acknowledged in the following publications, mainly for providing statistical advice and support:
 
@@ -129,18 +158,17 @@ In addition to co-authorship, I have also been acknowledged in the following pub
 
 	***Acknowledgements*** *[...] I would also like to thank Staffan Betnér for his statistical advice [...]*
 
-### Freelance
+<h3 id="education">Education</h3>
 
-- Political Charts, SVT (2018 and 2019)
+- Degree of Master of Social Science (120 credits) in Statistics. Uppsala University (2018)
+  - Master thesis: [Trends in Forest Soil Acidity: A GAM Based Approach with Application on Swedish Forest Soil Inventory Data](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1215453&dswid=3979)
+- Degree of Bachelor of Social Science in Statistics. Uppsala University (2016)
+  - Minor subjects: Economics and Political Science
 
-Before the 2018 Swedish general election, I was hired by SVT, the Swedish public service television company, to analyze their survey for political quizzes. The assignment essentially required me to describe the political landscape quantitatively. All parties (and candidates for the Riksdag) were placed in common political spaces depending on the administrative level. The political charts for all administrative units can be seen at [valkompassen.svt.se/2018/](https://valkompassen.svt.se/2018/) and an article about the placements of the Riksdag candidates can be found [here](https://www.svt.se/special/hur-lika-ar-kandidaterna-sina-partier/) (both links are in Swedish).
-
-In 2019, SVT hired me to perform a similar analysis of their survey for the political quiz on the European Parliament election. All respondents were placed in a (Swedish) European political space. The article on the analysis can be found at [www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden](https://www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden/) (in Swedish). 
-
-### Awards
+<h3 id="awards">Awards</h3>
 
 - **Genealogisk Ungdoms fond (GU-fonden)** (2021) - a scholarship fund administered by the Swedish Federation of Genealogical Societies (Sveriges Släktforskarförbund) to promote genealogy among young people. Nominated by Genealogiska Föreningen and awarded for creativity and the development of smart digital tools and software for both DNA-based and traditional genealogy.
 
-### Contact me
+<h3 id="contact">Contact me</h3>
 
 Contact details below (the icons).
