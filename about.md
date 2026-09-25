@@ -48,9 +48,9 @@ Outside work, I enjoy (genetic) genealogy and choir singing (currently on hiatus
 
 ### Freelance work: Political charts for SVT (2018 and 2019)
 
-Before the 2018 Swedish general election, I was hired by SVT, the Swedish public service television company, to analyze their survey for political quizzes. The assignment essentially required me to describe the political landscape quantitatively. All parties (and candidates for the Riksdag) were placed in common political spaces depending on the administrative level. The political charts for all administrative units can be seen at [valkompassen.svt.se/2018/](https://valkompassen.svt.se/2018/) and an article about the placements of the Riksdag candidates can be found [here](https://www.svt.se/special/hur-lika-ar-kandidaterna-sina-partier/) (both links are in Swedish).
+Ahead of the 2018 Swedish general election, I analysed responses to SVT's election quiz. Using the survey data, I mapped political parties and candidates for the Riksdag (Swedish parliament) into shared political spaces at different administrative levels. You can explore the [charts for each administrative unit](https://valkompassen.svt.se/2018/) or read [SVT's article about the Riksdag candidates](https://www.svt.se/special/hur-lika-ar-kandidaterna-sina-partier/).
 
-In 2019, SVT hired me to perform a similar analysis of their survey for the political quiz on the European Parliament election. All respondents were placed in a (Swedish) European political space. The article on the analysis can be found at [www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden](https://www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden/) (in Swedish).
+For the 2019 European Parliament election, I carried out a similar analysis of SVT's quiz responses, placing respondents in a Swedish–European political space. [SVT's article](https://www.svt.se/datajournalistik/partier-och-kandidater-i-den-eu-politiska-rymden/) describes the results. All linked material is in Swedish.
 
 ### Publications
 
