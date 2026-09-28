@@ -11,7 +11,7 @@ outline:
     id: svt-projects
   - title: Publications
     id: publications
-  - title: Peer reviewed articles
+  - title: Peer-reviewed articles
     id: peer-reviewed-articles
     subsection: true
   - title: Reports
@@ -46,7 +46,7 @@ Outside work, I enjoy (genetic) genealogy and choir singing (currently on hiatus
 - **Swedish University of Agricultural Sciences (SLU), Uppsala**
   - *Research Assistant in Statistics* (August 2018 - August 2020)
 
-### Freelance work: Political charts for SVT (2018 and 2019)
+### Freelance work: political charts for SVT (2018 and 2019)
 
 Ahead of the 2018 Swedish general election, I analysed responses to SVT's election quiz. Using the survey data, I mapped political parties and candidates for the Riksdag (Swedish parliament) into shared political spaces at different administrative levels. You can explore the [charts for each administrative unit](https://valkompassen.svt.se/2018/) or read [SVT's article about the Riksdag candidates](https://www.svt.se/special/hur-lika-ar-kandidaterna-sina-partier/).
 
@@ -54,7 +54,7 @@ For the 2019 European Parliament election, I carried out a similar analysis of S
 
 ### Publications
 
-#### Peer reviewed articles
+#### Peer-reviewed articles
 
 Articles are listed by first online publication date; the year in a citation may reflect a later journal issue.
 
@@ -78,7 +78,7 @@ Articles are listed by first online publication date; the year in a citation may
 
 - Eriksson, C., Pyko, A., **Betnér, S.**, Laurell, C., Lauber, A., & Georgelis, A. (2022). Flygbuller – Bromma: Så påverkades stockholmarna av minskat flygbuller under Covid-19-pandemin. Centrum för arbets- och miljömedicin (CAMM), Region Stockholm.
 
-#### Conference Contributions
+#### Conference contributions
 
 - Vanfleteren, L. E. G. W., Stridsman, C., Larsson, K., **Betnér, S.**, & Fuchs, B. (2026). *Prescription of pharmacotherapy for COPD in Sweden diverts from the expected in groups stratified by disease severity and sex* [Oral presentation]. Presented at the 52nd Nordic Lung Congress, Reykjavik, Iceland, June 3-5.
 
@@ -90,7 +90,7 @@ Articles are listed by first online publication date; the year in a citation may
 
 - Svensson, C., Wickström, H., Emanuelson, U., von Brömssen, C., **Betnér, S.**, & Forsberg, L. (2019). *Dairy veterinarians’ skill in Motivational Interviewing is linked to enhanced veterinary herd health management consultations* [Conference contribution]. Presented at the 17th International Conference on Production Diseases in Farm Animals (ICPD), Bern, Switzerland, June 27-29.
 
-### Other Scientific Contributions
+### Other scientific contributions
 
 In addition to co-authorship, I have also been acknowledged in the following publications, mainly for providing statistical advice and support:
 
